@@ -1,6 +1,7 @@
 # Github Raven
 
 Filter out github bot slack messages.
+Inspired by [Christian Sepulveda](https://medium.com/justideas-io/slack-notifications-filter-4760ed642457v)
 
 ## Local dev
 
@@ -8,6 +9,7 @@ First set up your `.env`
 ```
 export SLACK_BOT_TOKEN=<>
 export SLACK_SIGNING_SECRET=<>
+export FORWARD_CHANNEL_ID=<>
 ```
 
 Install [ngrok](https://ngrok.com/download) and run it
