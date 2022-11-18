@@ -2,6 +2,7 @@
 
 Filter out github bot slack messages.
 Inspired by [Christian Sepulveda](https://medium.com/justideas-io/slack-notifications-filter-4760ed642457v)
+since [this](https://github.com/integrations/slack/issues/1408) is still an issue.
 
 ## Local dev
 
