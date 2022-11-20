@@ -1,6 +1,6 @@
 import json
 import os
-import logging  # TODO: do proper logging
+import logging
 from slack_bolt import App
 from slack_bolt.adapter.fastapi import SlackRequestHandler
 from fastapi import FastAPI, Request
